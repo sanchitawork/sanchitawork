@@ -24,11 +24,11 @@ and building projects while documenting my journey.
 
 ## 🌱 Currently Learning
 
-- C
-- C++
-- Python
-- Data Structures & Algorithms
-- Git & GitHub
+- 💻 C & C++
+- 🐍 Python
+- 🧠 Data Structures & Algorithms
+- 🔧 Git & GitHub
+- 🤖 Foundations of Artificial Intelligence & Machine Learning
 
 ---
 
