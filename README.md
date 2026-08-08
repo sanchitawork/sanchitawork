@@ -59,5 +59,11 @@ and building projects while documenting my journey.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanchitawork)](https://git.io/streak-stats)
 
+---
+
+## 📈 Contribution Graph
+
+[![Sanchita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchitawork)](https://github.com/sanchitawork)
+
 
 
