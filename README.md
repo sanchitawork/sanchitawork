@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm Sanchita
 
-<!--
-**sanchitawork/sanchitawork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student @ IIEST Shibpur
 
-Here are some ideas to get you started:
+I'm an aspiring software engineer exploring Artificial Intelligence,
+Machine Learning, algorithms, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning the fundamentals of programming, problem solving,
+and building projects while documenting my journey.
+
+---
+
+## 🚀 About Me
+
+- 💻 Computer Science & Software Engineering
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Data Structures & Algorithms
+- 🛠️ Building projects and learning by doing
+- 🌱 Always curious to learn something new
+
+---
+
+## 🌱 Currently Learning
+
+- C
+- C++
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+
+---
+
+## 💻 Languages
+
+C • C++ • Python
