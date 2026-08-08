@@ -53,5 +53,11 @@ and building projects while documenting my journey.
 
 ![Sanchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitawork&show_icons=true)
 
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanchitawork)](https://git.io/streak-stats)
+
 
 
