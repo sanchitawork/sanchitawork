@@ -65,5 +65,15 @@ and building projects while documenting my journey.
 
 [![Sanchita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchitawork)](https://github.com/sanchitawork)
 
+---
+
+## 🔗 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Sanchita Gond](https://www.linkedin.com/in/sanchita-gond-274181419/) |
+| 💻 GitHub | [sanchitawork](https://github.com/sanchitawork) |
+| 📧 Email | [sanchita Gond](mailto:sanchitaagondwork@gmail.com) |
+
 
 
