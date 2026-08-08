@@ -102,4 +102,10 @@ Projects and practice programs as I build my programming fundamentals.
 ### 🤖 AI / ML
 Projects coming as I progress through my AI/ML learning journey.
 
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanchitawork&color=blue)
+
 
