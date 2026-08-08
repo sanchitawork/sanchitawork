@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Sanchita+%F0%9F%91%8B+;Computer+Science+Engineering+Student+;Aspiring+AI%2FML+Engineer)](https://git.io/typing-svg)
+
 # Hi there 👋 I'm Sanchita
 
 🎓 Computer Science Engineering Student @ IIEST Shibpur
