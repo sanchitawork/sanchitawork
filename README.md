@@ -46,3 +46,12 @@ and building projects while documenting my journey.
 | Codeforces | Coming Soon |
 | HackerRank | Coming Soon |
 
+
+---
+
+## 📊 GitHub Stats
+
+![Sanchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitawork&show_icons=true)
+
+
+
