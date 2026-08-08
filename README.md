@@ -77,3 +77,21 @@ and building projects while documenting my journey.
 
 
 
+---
+
+## ⭐ Featured Projects
+
+### 📚 CS50
+Learning programming and computer science through Harvard's CS50.
+
+🔗 [View Repository](https://github.com/sanchitawork)
+
+### 💻 C / C++ Projects
+Projects and practice programs as I build my programming fundamentals.
+
+🔗 [View Repositories](https://github.com/sanchitawork?tab=repositories)
+
+### 🤖 AI / ML
+Projects coming as I progress through my AI/ML learning journey.
+
+
